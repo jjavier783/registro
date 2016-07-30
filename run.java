@@ -8,7 +8,7 @@ import GUI.MainFrame;
 
 /**
  *
- * @author RA302
+ * @author Javier
  */
 public class run {
 
